@@ -1,0 +1,1001 @@
+programming_skill,math_skill,communication_skill,logical_thinking,cgpa,projects_count,interest_coding,interest_data,interest_appdev,interest_security,favorite_subject,career
+7,1,10,8,7.68,5,0,0,1,0,DBMS,Mobile App Developer
+4,8,6,9,5.72,5,1,0,1,0,DBMS,QA Tester
+8,4,7,6,8.92,5,1,1,1,0,Networks,Software Developer
+5,4,9,5,7.1,4,0,0,1,1,DBMS,UI/UX Designer
+7,5,1,6,7.5,2,1,0,1,0,Cybersecurity,Mobile App Developer
+10,8,7,2,8.93,3,1,0,1,0,Cybersecurity,Software Developer
+3,5,8,4,7.99,2,1,0,0,1,Cybersecurity,UI/UX Designer
+7,8,3,3,6.01,4,1,1,0,1,DBMS,Data Scientist
+8,10,4,7,7.95,0,0,0,0,1,DBMS,Cybersecurity Engineer
+5,1,10,9,7.04,4,1,0,1,0,Cybersecurity,UI/UX Designer
+4,10,6,5,7.35,5,0,0,0,0,DBMS,Data Analyst
+8,9,10,6,5.14,0,1,1,1,0,DBMS,Data Scientist
+8,6,7,10,6.05,5,1,0,0,0,DSA,Software Developer
+3,3,4,2,6.41,1,1,0,0,0,AI,QA Tester
+6,8,8,3,8.56,4,0,0,1,1,Maths,UI/UX Designer
+5,9,5,3,5.06,4,0,0,1,1,DBMS,QA Tester
+2,6,1,9,7.04,3,0,1,0,0,Maths,QA Tester
+8,7,4,7,9.62,2,1,0,0,0,Web,Software Developer
+6,1,3,8,5.56,0,1,0,0,0,Maths,QA Tester
+2,5,9,10,7.58,0,1,1,0,0,DSA,UI/UX Designer
+5,5,8,9,8.93,3,1,1,1,0,DBMS,UI/UX Designer
+1,10,1,6,9.71,3,0,1,0,1,Cybersecurity,Data Scientist
+10,4,6,4,8.73,2,1,0,1,1,Maths,Software Developer
+6,6,9,1,8.6,5,0,1,1,1,DBMS,UI/UX Designer
+9,7,7,8,9.13,2,1,0,0,0,Networks,Software Developer
+1,9,4,7,7.23,4,0,1,1,0,Web,Data Scientist
+10,1,1,2,9.03,5,0,0,0,1,Cybersecurity,QA Tester
+3,6,2,8,5.04,1,1,1,1,1,Networks,Cybersecurity Engineer
+7,7,5,5,9.62,2,1,0,1,0,Networks,Mobile App Developer
+4,3,5,7,7.22,3,0,1,0,1,Maths,Cybersecurity Engineer
+9,8,8,4,7.77,5,1,0,1,1,Networks,Software Developer
+3,5,6,5,6.27,2,1,0,1,0,DSA,QA Tester
+5,9,8,8,8.71,0,0,0,0,1,DSA,Cybersecurity Engineer
+3,5,2,1,5.38,1,0,0,1,1,Maths,QA Tester
+7,9,3,1,9.36,4,0,0,1,1,DBMS,Mobile App Developer
+5,10,6,4,9.14,0,0,0,0,0,AI,Data Analyst
+9,4,10,3,6.08,0,1,0,0,1,DBMS,Software Developer
+7,9,3,10,9.05,1,0,0,1,1,DBMS,Mobile App Developer
+2,5,6,2,8.93,4,0,1,1,1,DBMS,QA Tester
+4,10,6,3,8.16,3,0,0,1,0,DBMS,Data Analyst
+9,9,2,1,6.87,5,1,0,0,0,Cybersecurity,Software Developer
+2,3,7,1,6.36,4,0,1,1,1,AI,QA Tester
+10,4,2,6,6.16,2,1,0,1,0,Cybersecurity,Software Developer
+9,9,6,5,6.59,0,0,1,1,1,Networks,Data Scientist
+10,10,1,8,9.52,2,0,0,1,0,Web,Mobile App Developer
+5,6,3,2,5.39,3,1,1,1,0,DBMS,QA Tester
+2,2,2,4,9.14,2,0,1,1,1,Web,QA Tester
+4,7,7,8,6.74,4,0,0,0,1,DSA,Cybersecurity Engineer
+7,2,4,6,7.61,2,1,1,0,1,Maths,QA Tester
+8,2,8,1,8.97,3,0,0,1,0,Maths,Mobile App Developer
+3,1,6,4,9.42,3,0,0,1,1,Cybersecurity,QA Tester
+1,3,10,1,6.72,3,0,0,0,0,Cybersecurity,UI/UX Designer
+4,6,4,2,7.31,4,0,0,0,0,DSA,QA Tester
+2,8,5,5,7.07,3,1,1,0,1,DBMS,Data Scientist
+8,9,9,8,5.07,0,0,0,1,0,Web,Mobile App Developer
+4,7,7,8,6.48,3,1,1,1,1,Web,Data Scientist
+2,4,10,3,7.3,2,0,1,1,0,AI,UI/UX Designer
+6,6,9,4,7.06,5,1,0,1,1,Networks,UI/UX Designer
+6,5,7,10,8.61,2,0,0,0,0,Maths,QA Tester
+10,8,1,6,6.92,5,1,0,0,0,Networks,Software Developer
+4,1,8,10,7.45,2,0,0,0,1,AI,Cybersecurity Engineer
+6,1,4,3,7.15,4,1,1,0,0,Cybersecurity,QA Tester
+2,6,3,2,8.7,2,1,0,1,1,Web,QA Tester
+10,10,7,6,9.31,4,0,1,1,0,Maths,Data Scientist
+2,2,3,5,7.66,4,1,0,0,0,Networks,QA Tester
+10,5,8,10,8.95,3,0,0,0,0,Cybersecurity,UI/UX Designer
+4,1,6,5,6.48,0,0,0,0,1,AI,QA Tester
+8,7,5,10,7.71,5,0,0,0,1,Networks,Cybersecurity Engineer
+7,1,4,5,6.73,3,0,1,0,1,Web,QA Tester
+9,4,8,10,7.07,3,0,1,1,1,DBMS,Mobile App Developer
+8,9,8,5,8.66,4,1,0,1,1,Cybersecurity,Software Developer
+5,1,1,3,9.41,4,0,1,0,0,AI,QA Tester
+2,4,9,7,5.61,5,0,1,0,0,Networks,UI/UX Designer
+5,6,5,6,8.17,2,0,0,0,1,Web,QA Tester
+8,6,4,4,7.91,2,0,0,1,0,DBMS,Mobile App Developer
+10,8,6,2,5.59,3,0,1,1,0,DBMS,Data Scientist
+9,1,6,9,6.06,1,0,1,1,0,AI,Mobile App Developer
+9,7,2,1,6.56,1,1,1,0,0,DSA,Data Scientist
+1,1,8,4,5.83,2,1,1,1,1,Web,UI/UX Designer
+9,7,7,1,6.22,1,0,0,0,0,Web,QA Tester
+7,3,1,6,6.34,2,1,0,1,1,Maths,Mobile App Developer
+9,8,5,4,6.68,4,0,1,1,1,AI,Data Scientist
+8,3,6,5,8.75,3,0,0,1,0,DBMS,Mobile App Developer
+1,1,4,5,7.86,0,0,1,0,1,DBMS,QA Tester
+8,8,2,9,9.93,3,0,1,0,0,AI,Data Scientist
+8,3,4,1,7.07,2,0,0,1,0,DSA,Mobile App Developer
+3,2,1,2,8.77,2,1,1,0,0,Maths,QA Tester
+1,1,7,6,9.36,3,1,1,0,1,Networks,QA Tester
+8,3,2,5,8.39,5,1,0,0,1,AI,Software Developer
+3,2,2,7,7.06,2,1,0,0,1,Maths,Cybersecurity Engineer
+3,2,9,3,8.77,1,0,1,0,0,Web,UI/UX Designer
+1,6,5,3,6.02,1,1,1,0,0,Maths,QA Tester
+5,1,2,10,6.64,2,0,0,0,0,Cybersecurity,QA Tester
+10,2,9,2,7.73,2,1,1,1,1,DBMS,Software Developer
+7,6,9,3,7.88,5,1,1,0,0,Networks,UI/UX Designer
+10,3,1,10,5.11,1,1,0,0,0,AI,Software Developer
+9,4,3,1,9.73,2,1,0,1,1,DBMS,Software Developer
+7,1,4,5,8.48,2,0,0,1,1,Cybersecurity,Mobile App Developer
+9,8,7,5,7.48,5,1,0,1,1,Cybersecurity,Software Developer
+8,7,10,7,9.67,5,1,0,1,0,DBMS,Software Developer
+2,7,4,4,7.2,3,0,0,0,0,DSA,QA Tester
+1,3,2,3,9.9,5,0,1,1,0,Maths,QA Tester
+7,10,7,1,7.56,0,1,1,1,1,AI,Data Scientist
+7,10,6,8,5.57,1,0,0,0,1,AI,Cybersecurity Engineer
+8,3,3,3,8.82,3,0,0,0,1,AI,QA Tester
+5,2,6,2,8.39,0,0,1,0,1,DBMS,QA Tester
+3,1,6,4,8.86,2,1,1,1,0,Web,QA Tester
+8,7,5,3,9.76,2,0,1,0,0,DSA,Data Scientist
+6,7,4,1,8.88,3,1,0,1,0,Networks,QA Tester
+3,2,10,3,8.06,5,1,0,0,0,Cybersecurity,UI/UX Designer
+1,7,1,2,9.29,2,1,1,0,0,DBMS,Data Scientist
+3,8,10,8,8.37,4,1,0,1,0,Web,UI/UX Designer
+5,1,6,6,7.04,3,0,0,0,0,Networks,QA Tester
+3,9,2,9,9.43,0,1,0,0,0,Cybersecurity,Data Analyst
+1,7,3,8,6.11,3,0,1,0,1,Cybersecurity,Data Scientist
+5,3,8,10,8.57,1,1,1,0,1,DSA,Cybersecurity Engineer
+10,8,10,3,9.41,5,0,0,0,0,Maths,UI/UX Designer
+7,7,6,5,8.66,5,1,0,1,1,AI,Mobile App Developer
+7,8,3,7,8.49,3,0,0,1,0,Networks,Mobile App Developer
+9,6,7,5,8.76,2,1,0,0,0,DBMS,Software Developer
+10,9,4,8,7.33,2,1,0,1,1,Networks,Software Developer
+10,5,9,5,9.37,4,0,1,1,0,Maths,Mobile App Developer
+3,3,5,1,6.02,4,1,0,1,0,AI,QA Tester
+7,3,3,5,5.64,5,1,0,0,0,Networks,QA Tester
+1,1,2,4,6.43,4,1,0,0,0,Maths,QA Tester
+4,8,2,6,7.66,0,0,1,0,0,DBMS,Data Scientist
+4,2,3,3,7.55,4,1,1,1,0,DSA,QA Tester
+5,3,2,5,9.1,0,1,0,1,0,Web,QA Tester
+7,8,4,2,7.02,4,0,1,0,1,Cybersecurity,Data Scientist
+7,8,2,6,7.42,5,0,1,0,1,DBMS,Data Scientist
+4,4,10,6,5.07,5,0,1,1,0,AI,UI/UX Designer
+7,4,9,5,7.05,0,0,1,1,1,Cybersecurity,Mobile App Developer
+3,5,2,6,8.24,3,0,1,0,0,Web,QA Tester
+6,6,9,7,5.08,5,1,1,1,0,DBMS,UI/UX Designer
+2,5,6,5,6.4,3,1,0,1,0,DBMS,QA Tester
+10,7,1,1,6.04,2,1,1,1,0,DBMS,Data Scientist
+9,2,4,8,5.21,0,0,1,1,1,DBMS,Mobile App Developer
+5,7,1,4,7.4,5,1,0,1,1,Cybersecurity,QA Tester
+6,10,6,9,5.91,1,0,0,1,1,AI,Cybersecurity Engineer
+4,7,4,10,8.72,2,0,0,1,1,Web,Cybersecurity Engineer
+10,1,3,6,9.24,3,1,0,0,0,Maths,Software Developer
+7,7,3,1,7.73,5,0,1,0,1,Networks,Data Scientist
+9,5,9,3,9.91,0,0,1,1,0,DSA,Mobile App Developer
+7,3,6,3,7.25,4,1,1,1,0,Web,Mobile App Developer
+1,3,9,10,7.57,1,0,1,1,1,Networks,Cybersecurity Engineer
+1,4,5,4,9.95,3,0,0,0,0,Networks,QA Tester
+9,2,2,6,6.16,2,1,1,0,1,DSA,Software Developer
+9,2,8,7,9.71,0,0,1,1,1,Web,Mobile App Developer
+4,1,5,10,5.21,1,0,0,0,1,Cybersecurity,Cybersecurity Engineer
+9,5,2,4,7.23,0,1,1,1,1,AI,Software Developer
+3,4,4,6,5.35,5,1,1,1,1,DSA,QA Tester
+7,10,9,1,8.65,4,1,1,1,0,AI,Data Scientist
+6,2,4,8,8.04,2,1,1,1,1,Cybersecurity,Cybersecurity Engineer
+8,3,4,7,8.53,0,0,0,1,1,Networks,Mobile App Developer
+9,7,2,9,6.87,3,0,0,1,0,AI,Mobile App Developer
+5,7,6,3,6.85,5,1,0,1,1,Cybersecurity,QA Tester
+1,4,2,2,5.23,5,0,0,0,1,Cybersecurity,QA Tester
+3,5,7,1,6.75,2,0,0,1,0,Maths,QA Tester
+10,5,3,3,9.65,5,1,1,0,0,DSA,Software Developer
+8,6,3,5,6.9,3,1,1,1,1,Maths,Software Developer
+6,9,5,2,9.16,0,0,0,1,0,Networks,Data Analyst
+8,2,3,3,9.21,2,1,0,0,1,DSA,Software Developer
+9,5,2,4,6.87,5,1,0,0,0,Networks,Software Developer
+4,3,10,7,8.16,5,1,1,1,1,Maths,Cybersecurity Engineer
+1,4,9,3,5.48,3,0,0,0,1,Web,UI/UX Designer
+1,10,2,9,5.52,4,1,1,1,1,Cybersecurity,Data Scientist
+10,6,2,8,5.24,4,0,1,1,0,Networks,Mobile App Developer
+4,8,8,4,7.91,5,0,1,0,1,DSA,Data Scientist
+7,1,9,1,7.13,0,0,1,0,0,DSA,UI/UX Designer
+2,10,7,1,7.74,2,1,0,0,1,Networks,Data Analyst
+3,8,3,1,7.61,5,1,1,0,1,DSA,Data Scientist
+1,7,9,1,6.75,1,1,1,1,1,Cybersecurity,Data Scientist
+5,1,3,8,8.39,2,1,0,0,1,Web,Cybersecurity Engineer
+1,2,5,3,8.79,4,1,1,0,1,Cybersecurity,QA Tester
+8,3,9,6,5.07,5,0,1,0,0,DSA,UI/UX Designer
+1,1,3,3,6.04,3,0,1,0,0,Networks,QA Tester
+1,9,7,5,8.57,1,0,0,0,0,Maths,Data Analyst
+2,8,1,7,6.93,5,1,1,1,1,DSA,Data Scientist
+2,2,4,2,8.31,0,0,1,1,1,DSA,QA Tester
+6,9,4,6,6.73,1,0,0,0,0,DSA,QA Tester
+7,7,7,6,6.95,5,1,0,0,1,DSA,QA Tester
+5,9,8,3,5.79,0,1,1,1,1,Networks,Data Scientist
+1,6,1,6,6.29,1,0,1,0,1,Maths,QA Tester
+1,6,5,10,8.03,0,0,0,1,0,Maths,QA Tester
+3,4,7,10,7.17,0,1,1,1,0,AI,QA Tester
+2,10,4,5,8.87,1,1,0,0,0,DSA,Data Analyst
+5,10,4,2,9.26,1,1,1,1,0,DSA,Data Scientist
+10,2,4,9,7.71,0,1,0,0,0,AI,Software Developer
+6,7,6,8,8.79,4,0,1,0,1,Maths,Data Scientist
+7,5,7,3,6.53,1,0,0,1,1,DBMS,Mobile App Developer
+4,6,2,8,7.07,5,1,0,1,1,Cybersecurity,Cybersecurity Engineer
+7,2,5,9,8.56,2,0,0,0,1,DBMS,Cybersecurity Engineer
+8,5,4,3,6.93,3,0,0,1,0,Maths,Mobile App Developer
+1,10,3,3,7.94,0,1,0,0,0,Web,Data Analyst
+6,4,7,2,5.93,0,0,1,1,1,DSA,QA Tester
+8,9,6,8,8.0,3,0,1,1,0,DBMS,Data Scientist
+5,6,7,10,9.31,4,0,0,0,1,Networks,Cybersecurity Engineer
+4,2,5,1,9.34,3,1,1,0,1,Networks,QA Tester
+2,1,6,8,8.62,1,1,1,0,1,AI,Cybersecurity Engineer
+6,5,5,7,8.73,3,0,1,1,1,Maths,Cybersecurity Engineer
+6,9,7,7,7.79,0,1,1,0,0,Maths,Data Scientist
+1,6,2,3,7.92,3,1,1,0,1,DBMS,QA Tester
+9,10,5,1,5.67,2,1,1,1,0,DSA,Data Scientist
+6,7,6,4,7.22,5,0,0,1,1,Maths,QA Tester
+3,5,6,9,7.25,1,0,1,0,1,DBMS,Cybersecurity Engineer
+4,10,5,5,9.79,3,1,1,0,1,DBMS,Data Scientist
+4,6,10,1,7.16,0,0,1,0,1,Cybersecurity,UI/UX Designer
+3,5,7,5,7.75,5,0,0,0,0,Cybersecurity,QA Tester
+10,9,10,8,7.67,1,0,1,1,1,Maths,Data Scientist
+3,6,8,8,8.18,0,0,1,1,0,DBMS,UI/UX Designer
+3,8,7,5,8.74,4,0,1,0,1,AI,Data Scientist
+4,2,5,9,6.13,2,1,0,0,1,AI,Cybersecurity Engineer
+7,9,1,1,7.64,4,0,1,0,1,Cybersecurity,Data Scientist
+4,5,5,4,9.13,2,0,0,1,0,Maths,QA Tester
+9,7,10,3,7.32,3,0,1,0,1,DSA,Data Scientist
+1,10,2,2,6.39,1,1,0,0,1,Web,QA Tester
+8,1,5,8,8.27,3,1,0,1,1,AI,Software Developer
+7,10,5,7,9.12,2,1,0,1,1,AI,Mobile App Developer
+2,5,2,9,5.32,2,0,1,0,1,Cybersecurity,Cybersecurity Engineer
+8,10,5,2,8.88,2,1,0,0,0,Cybersecurity,Software Developer
+1,2,4,4,9.11,5,1,0,1,0,Maths,QA Tester
+9,6,1,6,7.31,0,1,0,0,1,Cybersecurity,Software Developer
+9,1,3,3,9.92,1,1,0,0,1,Networks,Software Developer
+2,3,1,8,8.93,3,0,1,1,0,Web,QA Tester
+7,5,5,3,8.87,3,1,1,1,1,DBMS,Mobile App Developer
+10,4,4,2,8.74,4,1,1,1,0,AI,Software Developer
+3,3,7,3,5.75,2,0,1,0,1,Networks,QA Tester
+7,10,5,6,6.09,2,0,0,1,1,DSA,Mobile App Developer
+10,5,10,2,7.32,2,1,1,1,0,Networks,Software Developer
+9,8,4,8,6.32,3,0,0,0,1,Maths,Cybersecurity Engineer
+4,4,2,1,7.08,4,1,1,0,0,DSA,QA Tester
+1,1,4,7,9.44,0,0,1,1,0,DSA,QA Tester
+2,7,2,2,9.12,5,0,1,1,0,Cybersecurity,Data Scientist
+1,8,8,10,8.15,1,1,0,0,1,Networks,Cybersecurity Engineer
+5,3,3,6,9.29,0,0,1,0,0,Maths,QA Tester
+5,6,9,2,8.92,3,1,1,1,0,AI,UI/UX Designer
+7,2,4,2,7.14,5,0,1,1,1,Web,Mobile App Developer
+9,7,6,10,6.01,5,1,0,0,1,Cybersecurity,Software Developer
+9,8,10,8,7.57,5,0,1,1,1,Networks,Data Scientist
+3,6,5,2,8.68,2,0,1,0,1,AI,QA Tester
+3,6,10,7,7.18,1,0,0,1,1,Networks,Cybersecurity Engineer
+3,5,1,3,8.33,3,0,0,0,1,Cybersecurity,QA Tester
+4,8,9,8,5.47,3,0,1,0,0,AI,Data Scientist
+8,1,1,7,8.74,5,1,1,1,1,Cybersecurity,Software Developer
+6,10,8,8,9.06,3,0,1,1,0,Networks,Data Scientist
+8,4,9,7,8.53,1,1,0,0,1,DSA,Software Developer
+1,4,9,6,9.84,1,1,0,1,0,Web,UI/UX Designer
+8,3,1,7,9.13,4,1,0,1,0,DBMS,Software Developer
+4,3,2,5,9.52,4,0,1,1,1,Web,QA Tester
+1,4,1,7,9.67,0,1,0,0,1,DSA,Cybersecurity Engineer
+8,1,10,1,9.01,1,0,1,1,0,Cybersecurity,Mobile App Developer
+4,2,2,1,8.37,1,1,0,1,1,Web,QA Tester
+6,9,10,9,5.03,1,1,0,0,1,Cybersecurity,Cybersecurity Engineer
+8,10,8,5,7.33,4,1,0,1,0,Cybersecurity,Software Developer
+4,2,5,5,7.86,5,1,1,1,0,AI,QA Tester
+3,5,7,3,6.52,5,1,1,0,0,Maths,QA Tester
+9,9,2,5,6.59,3,0,1,0,1,Cybersecurity,Data Scientist
+3,9,8,3,9.81,5,1,1,1,1,Web,Data Scientist
+9,8,6,9,9.46,2,1,0,1,1,Web,Software Developer
+2,1,8,9,9.25,4,0,1,0,1,Web,Cybersecurity Engineer
+2,1,1,6,7.03,1,0,0,0,0,DSA,QA Tester
+2,9,1,1,5.07,5,0,1,1,1,DBMS,Data Scientist
+6,8,7,7,5.4,4,1,1,1,0,Cybersecurity,Data Scientist
+3,10,8,7,6.56,5,1,0,1,1,Cybersecurity,Cybersecurity Engineer
+9,9,3,10,5.08,0,1,0,0,1,Cybersecurity,Software Developer
+4,7,5,10,5.09,1,1,1,1,0,AI,Data Scientist
+1,3,1,4,9.58,0,1,1,0,1,Cybersecurity,QA Tester
+4,3,7,8,8.53,1,1,0,0,1,DSA,Cybersecurity Engineer
+1,2,5,6,6.54,4,0,0,0,0,Networks,QA Tester
+5,5,8,4,5.66,3,0,0,1,1,Maths,UI/UX Designer
+4,3,8,4,7.56,5,1,0,1,0,Web,UI/UX Designer
+8,6,9,2,5.03,5,1,0,1,0,Cybersecurity,Software Developer
+8,2,7,2,9.69,2,1,1,0,0,AI,Software Developer
+7,3,1,4,7.07,0,1,1,1,0,DSA,Mobile App Developer
+3,5,3,5,7.01,5,1,1,0,1,Cybersecurity,QA Tester
+1,1,8,8,6.95,4,0,1,0,1,AI,Cybersecurity Engineer
+1,1,3,6,5.35,3,0,0,0,1,Networks,QA Tester
+3,10,8,4,8.19,4,1,0,0,0,DBMS,UI/UX Designer
+6,9,1,7,8.67,0,0,0,0,1,Cybersecurity,Cybersecurity Engineer
+7,7,5,8,8.38,2,1,1,0,1,DSA,Data Scientist
+6,1,4,2,5.69,5,1,0,1,1,AI,QA Tester
+6,8,5,7,7.89,4,1,0,0,1,AI,Cybersecurity Engineer
+6,3,8,2,7.85,1,0,1,1,0,Cybersecurity,UI/UX Designer
+3,8,10,2,9.34,3,0,1,0,0,AI,Data Scientist
+6,5,4,8,6.9,4,1,1,1,1,DBMS,Cybersecurity Engineer
+8,1,4,2,6.86,3,0,0,1,0,AI,Mobile App Developer
+2,7,3,9,8.09,5,0,0,1,1,Web,Cybersecurity Engineer
+5,5,7,1,8.17,1,1,1,1,1,Maths,QA Tester
+1,6,3,9,7.35,2,0,1,0,1,Web,Cybersecurity Engineer
+1,6,3,1,7.22,2,0,0,0,0,Maths,QA Tester
+5,8,10,10,7.47,1,1,1,0,1,AI,Data Scientist
+3,9,5,10,9.31,3,1,0,0,0,Cybersecurity,Data Analyst
+4,2,5,2,7.31,5,0,1,1,0,Maths,QA Tester
+3,9,6,6,9.7,4,1,1,1,1,DSA,Data Scientist
+1,10,8,6,7.52,1,0,1,1,0,Maths,Data Scientist
+1,9,10,1,9.75,0,1,0,0,0,Web,UI/UX Designer
+5,10,6,7,9.16,3,1,0,1,1,AI,Cybersecurity Engineer
+6,10,1,8,6.81,2,1,1,0,0,Cybersecurity,Data Scientist
+3,7,8,2,9.32,1,1,0,1,0,Networks,UI/UX Designer
+9,1,8,8,5.55,2,0,1,1,1,Cybersecurity,Mobile App Developer
+5,7,9,9,9.63,3,1,1,1,1,Cybersecurity,Data Scientist
+8,10,9,6,8.16,2,1,0,1,0,Cybersecurity,Software Developer
+1,5,2,5,5.27,1,1,0,1,1,DSA,QA Tester
+5,6,2,9,8.22,3,0,0,0,1,DBMS,Cybersecurity Engineer
+3,10,3,9,9.87,0,0,0,1,0,Web,Data Analyst
+1,7,1,1,5.35,1,1,1,0,0,AI,Data Scientist
+4,5,4,3,7.77,4,1,0,0,1,DBMS,QA Tester
+5,7,4,9,8.74,5,1,0,0,0,Networks,QA Tester
+7,9,9,2,9.05,1,1,1,0,1,DBMS,Data Scientist
+1,3,9,4,7.07,3,1,1,0,1,AI,UI/UX Designer
+3,8,9,4,6.02,5,1,1,0,0,Web,Data Scientist
+2,2,10,2,5.21,1,0,1,0,0,Web,UI/UX Designer
+9,7,7,3,7.9,0,1,0,0,1,AI,Software Developer
+10,2,2,3,7.26,0,1,0,1,1,Networks,Software Developer
+6,4,10,1,9.74,4,1,1,1,1,AI,UI/UX Designer
+10,7,5,6,5.3,2,1,1,0,1,Networks,Data Scientist
+3,3,4,8,8.43,5,1,0,0,0,Networks,QA Tester
+8,2,8,3,5.12,3,1,0,0,1,AI,Software Developer
+8,10,2,5,5.86,3,0,0,1,0,Maths,Mobile App Developer
+2,7,6,1,7.27,2,0,0,1,0,Web,QA Tester
+6,1,5,10,7.27,0,0,0,0,1,Networks,Cybersecurity Engineer
+7,8,2,7,8.43,0,0,1,0,0,AI,Data Scientist
+2,3,10,10,9.55,1,0,1,1,0,Maths,UI/UX Designer
+10,2,1,1,8.2,4,0,1,1,1,Web,Mobile App Developer
+2,3,8,9,9.77,5,1,1,0,0,Networks,UI/UX Designer
+10,5,2,8,9.41,4,1,0,0,0,Web,Software Developer
+1,8,7,7,7.92,4,1,1,0,1,Maths,Data Scientist
+8,10,9,10,9.17,1,1,0,0,1,Web,Software Developer
+1,7,9,7,8.21,4,1,0,1,1,DSA,Cybersecurity Engineer
+9,7,8,5,5.39,2,1,0,1,1,Cybersecurity,Software Developer
+6,7,10,5,8.7,1,0,0,0,1,DSA,UI/UX Designer
+7,8,9,5,5.47,2,1,0,0,1,Maths,UI/UX Designer
+10,1,2,1,7.97,1,0,0,0,1,Networks,QA Tester
+7,4,6,8,8.51,4,0,0,1,0,AI,Mobile App Developer
+10,6,4,1,5.33,2,1,1,0,0,DBMS,Software Developer
+3,9,4,4,6.15,2,1,0,0,1,AI,QA Tester
+2,2,5,9,9.58,2,1,1,0,0,Web,QA Tester
+9,1,3,9,8.08,1,1,1,1,0,DBMS,Software Developer
+8,10,1,5,6.23,3,1,0,0,1,DBMS,Software Developer
+10,2,8,4,8.45,4,1,0,1,0,Web,Software Developer
+7,7,5,3,7.98,2,1,1,0,1,Web,Data Scientist
+9,3,3,3,7.51,5,0,1,0,0,Networks,QA Tester
+4,10,10,5,9.88,3,1,1,0,1,Maths,Data Scientist
+4,2,7,10,8.42,5,1,1,1,0,AI,QA Tester
+1,7,7,1,6.88,4,0,0,0,0,Maths,QA Tester
+8,2,1,5,9.0,4,1,0,0,0,DSA,Software Developer
+3,3,9,6,9.42,2,1,0,1,1,Networks,UI/UX Designer
+7,7,2,7,5.63,2,0,1,1,0,Networks,Data Scientist
+2,4,5,9,6.0,1,1,0,1,0,DSA,QA Tester
+2,1,5,3,6.08,3,1,1,0,1,AI,QA Tester
+7,5,8,2,8.46,3,1,0,1,1,Cybersecurity,Mobile App Developer
+6,9,8,3,8.02,2,1,1,0,0,DSA,Data Scientist
+3,8,7,9,8.09,4,1,0,1,0,AI,Data Analyst
+9,9,7,7,9.7,2,1,0,1,0,DBMS,Software Developer
+10,10,6,9,8.88,4,0,1,1,0,Web,Data Scientist
+6,9,6,2,5.64,4,1,1,0,1,Networks,Data Scientist
+10,7,9,5,6.74,2,1,1,0,0,AI,Data Scientist
+10,4,6,4,7.18,0,0,1,0,0,Maths,QA Tester
+6,5,2,2,6.98,3,0,1,0,1,Web,QA Tester
+1,1,2,9,8.35,5,1,0,0,0,Maths,QA Tester
+4,1,5,9,9.46,4,0,1,0,0,Web,QA Tester
+10,3,4,6,6.53,4,1,0,0,0,Networks,Software Developer
+6,8,2,6,7.76,0,1,0,0,1,DSA,Data Analyst
+6,2,3,8,8.95,5,0,0,0,1,Cybersecurity,Cybersecurity Engineer
+5,4,7,6,7.08,1,1,0,1,0,DSA,QA Tester
+1,2,8,1,5.84,0,1,0,1,0,AI,UI/UX Designer
+8,5,6,4,7.37,5,0,1,0,1,DSA,QA Tester
+5,9,5,7,5.28,0,0,1,0,0,Networks,Data Scientist
+5,1,1,2,9.71,4,0,0,0,0,AI,QA Tester
+7,5,8,9,5.37,3,0,0,0,1,DBMS,Cybersecurity Engineer
+4,9,3,8,7.19,0,1,1,1,1,DSA,Data Scientist
+6,1,6,8,7.65,1,0,1,1,1,DSA,Cybersecurity Engineer
+4,9,3,7,9.93,2,0,0,0,0,Cybersecurity,Data Analyst
+3,8,7,4,5.83,5,0,1,1,0,AI,Data Scientist
+7,4,7,2,5.57,0,0,1,1,0,Maths,Mobile App Developer
+8,10,9,3,5.04,0,0,1,0,0,DSA,Data Scientist
+4,5,5,6,5.78,1,1,0,0,1,Networks,QA Tester
+2,5,8,5,6.04,3,0,1,0,0,DSA,UI/UX Designer
+10,6,10,8,8.15,0,1,0,0,0,Cybersecurity,Software Developer
+3,7,10,6,6.1,0,0,0,1,1,DBMS,UI/UX Designer
+1,8,8,6,5.1,3,0,0,0,1,Cybersecurity,UI/UX Designer
+8,8,1,1,9.13,1,0,0,1,0,DSA,Mobile App Developer
+3,2,5,4,6.83,5,0,0,0,1,Maths,QA Tester
+10,9,3,5,6.77,5,0,1,1,1,Web,Data Scientist
+7,7,1,3,6.51,0,0,0,0,0,DSA,QA Tester
+10,4,4,9,9.88,3,0,0,0,0,AI,QA Tester
+5,4,8,1,5.85,0,0,0,1,0,DSA,UI/UX Designer
+10,8,3,6,9.49,2,1,1,1,0,Maths,Data Scientist
+5,4,10,6,8.88,5,0,1,1,1,AI,UI/UX Designer
+7,6,2,10,5.38,4,1,1,0,1,Networks,Cybersecurity Engineer
+9,5,9,5,9.93,2,0,1,1,0,AI,Mobile App Developer
+5,3,10,5,6.36,0,1,1,1,0,Cybersecurity,UI/UX Designer
+1,10,5,10,5.49,1,0,1,1,1,DBMS,Data Scientist
+10,2,7,5,9.15,5,0,1,1,0,Cybersecurity,Mobile App Developer
+10,9,2,6,8.53,4,0,0,1,0,Web,Mobile App Developer
+1,10,9,8,8.09,2,1,0,1,0,AI,UI/UX Designer
+2,9,9,2,5.78,5,1,1,1,0,Networks,Data Scientist
+6,1,4,6,7.39,3,1,0,1,1,DSA,QA Tester
+9,10,4,1,8.9,1,1,0,1,0,AI,Software Developer
+8,3,6,4,6.52,2,0,1,0,1,Cybersecurity,QA Tester
+5,8,10,10,6.56,3,0,0,0,0,AI,UI/UX Designer
+1,6,10,3,5.02,0,0,0,1,0,AI,UI/UX Designer
+7,5,10,9,5.87,3,1,1,0,1,AI,Cybersecurity Engineer
+5,5,6,3,9.38,2,0,0,0,0,Networks,QA Tester
+6,6,1,6,7.21,2,1,1,1,1,Maths,QA Tester
+7,7,9,1,9.92,0,1,1,1,0,Maths,Data Scientist
+3,1,2,6,6.98,3,1,0,1,0,AI,QA Tester
+10,9,5,4,8.58,3,1,0,1,0,Networks,Software Developer
+3,3,9,8,6.41,0,1,0,1,0,Networks,UI/UX Designer
+5,4,4,9,6.82,3,0,1,1,0,Web,QA Tester
+6,10,3,4,5.95,5,1,1,0,1,AI,Data Scientist
+9,1,7,10,6.74,0,1,1,1,1,Cybersecurity,Software Developer
+5,10,6,10,7.74,1,0,0,0,0,Cybersecurity,Data Analyst
+1,3,8,6,9.96,2,1,0,1,0,DBMS,UI/UX Designer
+4,2,3,1,8.32,1,1,1,1,1,AI,QA Tester
+5,2,5,4,6.0,5,0,0,0,1,DBMS,QA Tester
+10,1,10,7,5.22,5,0,0,1,0,Cybersecurity,Mobile App Developer
+10,8,4,1,5.63,4,0,1,1,0,Cybersecurity,Data Scientist
+5,3,4,8,7.81,4,1,1,0,1,AI,Cybersecurity Engineer
+7,3,4,10,8.83,4,0,0,1,0,DBMS,Mobile App Developer
+4,6,10,6,9.7,0,0,1,0,1,DBMS,UI/UX Designer
+1,8,8,5,5.08,3,0,0,1,0,AI,UI/UX Designer
+5,9,6,10,7.61,5,1,1,1,1,Web,Data Scientist
+7,9,3,9,7.35,1,0,1,0,1,DBMS,Data Scientist
+10,4,10,2,8.28,1,1,1,1,0,Web,Software Developer
+10,5,5,5,7.8,1,1,0,0,1,DSA,Software Developer
+6,2,6,6,8.44,1,0,0,0,0,Cybersecurity,QA Tester
+5,9,5,7,8.29,4,1,1,0,0,Maths,Data Scientist
+4,8,6,5,5.59,1,1,1,1,0,Web,Data Scientist
+2,3,8,9,9.0,3,0,1,1,0,Web,UI/UX Designer
+4,9,7,1,5.62,4,1,0,0,1,Web,QA Tester
+10,3,5,7,8.49,1,0,1,1,0,Networks,Mobile App Developer
+10,9,10,10,7.08,0,1,1,1,0,DBMS,Data Scientist
+3,2,6,7,7.57,2,1,1,1,0,DBMS,QA Tester
+10,10,4,4,9.52,2,0,1,0,0,Networks,Data Scientist
+1,9,9,9,9.45,2,0,0,1,1,DBMS,Cybersecurity Engineer
+8,8,4,5,9.09,4,1,0,0,0,Networks,Software Developer
+5,9,1,4,7.55,1,1,1,1,1,Web,Data Scientist
+4,5,7,7,8.68,5,0,0,1,1,AI,Cybersecurity Engineer
+8,2,7,4,7.56,5,1,0,0,1,DSA,Software Developer
+7,8,4,3,9.35,5,1,0,1,0,Web,Mobile App Developer
+2,6,3,9,7.01,4,1,1,0,0,DSA,QA Tester
+1,8,8,8,9.85,3,1,0,1,0,Cybersecurity,UI/UX Designer
+4,5,5,1,9.66,0,0,0,0,0,Web,QA Tester
+8,10,10,7,8.71,0,0,0,1,1,Maths,Mobile App Developer
+2,2,7,9,6.4,2,0,1,1,1,DBMS,Cybersecurity Engineer
+3,6,4,8,5.66,2,0,1,1,0,Maths,QA Tester
+1,5,4,8,9.27,5,0,0,0,0,AI,QA Tester
+1,5,8,6,5.83,5,0,0,0,0,DSA,UI/UX Designer
+3,1,8,4,9.27,2,1,1,0,0,Web,UI/UX Designer
+5,2,2,8,7.45,1,0,1,1,0,AI,QA Tester
+3,8,2,3,7.03,3,1,0,0,0,AI,Data Analyst
+1,3,3,9,9.52,3,1,0,0,0,DBMS,QA Tester
+1,10,3,2,8.02,3,1,1,0,1,AI,Data Scientist
+8,3,1,2,7.88,3,0,1,0,1,Web,QA Tester
+10,8,3,7,7.79,2,1,0,0,1,Web,Software Developer
+2,8,6,10,6.86,0,0,1,0,1,DSA,Data Scientist
+3,2,8,4,8.93,2,1,0,0,0,Web,UI/UX Designer
+2,8,10,10,6.26,3,1,0,0,0,Maths,UI/UX Designer
+3,1,6,8,9.69,2,0,0,0,0,DSA,QA Tester
+7,6,5,9,9.47,3,1,1,0,0,DBMS,QA Tester
+1,8,4,7,6.69,4,1,0,1,0,DSA,QA Tester
+10,3,3,5,8.65,5,1,0,1,1,Networks,Software Developer
+8,8,4,8,7.87,0,1,1,0,0,Maths,Data Scientist
+10,1,7,4,6.69,4,0,1,1,1,Networks,Mobile App Developer
+10,9,1,2,9.94,1,1,0,1,0,Networks,Software Developer
+10,9,7,6,5.13,2,1,0,0,1,Cybersecurity,Software Developer
+2,5,1,9,6.26,1,0,1,0,0,Web,QA Tester
+3,10,2,1,7.6,2,1,1,0,1,DBMS,Data Scientist
+9,4,4,10,7.61,5,1,1,1,0,AI,Software Developer
+7,6,1,7,7.94,4,1,0,0,0,Networks,QA Tester
+4,7,9,10,8.76,5,1,0,1,0,DSA,UI/UX Designer
+10,5,6,9,8.12,3,0,0,0,0,AI,QA Tester
+5,10,1,10,8.0,5,1,1,1,1,DSA,Data Scientist
+2,9,1,9,5.27,5,0,0,1,0,DSA,QA Tester
+8,3,6,10,6.88,3,1,1,0,1,AI,Software Developer
+4,7,4,3,6.16,2,1,0,0,0,AI,QA Tester
+9,10,4,5,6.33,3,1,1,1,1,Web,Data Scientist
+5,10,6,8,7.77,4,0,0,1,0,DSA,Data Analyst
+9,5,7,8,6.0,5,1,0,0,0,DBMS,Software Developer
+4,7,9,4,6.47,3,1,1,0,1,Web,Data Scientist
+10,2,10,1,6.19,5,0,1,1,0,Maths,Mobile App Developer
+5,4,5,1,9.74,4,0,0,0,0,Cybersecurity,QA Tester
+9,2,9,4,9.72,1,0,1,1,1,Maths,Mobile App Developer
+8,7,4,6,8.05,4,0,1,0,0,DBMS,Data Scientist
+3,2,10,8,9.62,0,1,0,0,1,Web,Cybersecurity Engineer
+1,1,2,6,8.93,0,1,1,0,0,Cybersecurity,QA Tester
+3,9,3,9,7.95,0,1,0,1,1,Web,Cybersecurity Engineer
+4,1,1,9,5.03,5,1,0,0,1,AI,Cybersecurity Engineer
+2,8,6,2,8.86,2,0,1,1,1,Cybersecurity,Data Scientist
+1,2,6,10,8.51,2,1,1,0,1,DSA,Cybersecurity Engineer
+7,8,1,1,8.08,2,1,0,1,0,Maths,Mobile App Developer
+8,3,3,2,8.8,5,1,0,1,0,Cybersecurity,Software Developer
+7,6,5,5,7.56,4,1,0,0,1,DSA,QA Tester
+5,3,3,4,8.52,2,0,0,1,0,Web,QA Tester
+1,7,10,4,9.68,1,1,0,1,0,DBMS,UI/UX Designer
+7,10,3,9,6.88,0,1,0,1,0,Cybersecurity,Mobile App Developer
+7,9,10,8,8.54,4,1,1,1,1,DSA,Data Scientist
+9,2,3,6,7.38,0,0,1,0,0,Web,QA Tester
+3,5,5,1,8.37,2,0,1,0,0,Web,QA Tester
+9,6,5,2,8.81,4,1,0,0,1,Web,Software Developer
+1,4,4,6,5.23,3,1,1,1,0,DBMS,QA Tester
+1,4,1,2,8.23,1,1,0,1,1,AI,QA Tester
+4,4,5,10,6.13,2,0,0,0,1,DBMS,Cybersecurity Engineer
+9,2,10,5,8.35,2,1,1,0,1,DBMS,Software Developer
+6,4,5,5,7.34,1,1,0,1,0,Maths,QA Tester
+3,1,4,6,8.87,1,1,0,0,0,Web,QA Tester
+1,6,6,6,5.62,3,0,0,0,1,DSA,QA Tester
+4,1,10,6,8.13,2,1,0,1,1,Cybersecurity,UI/UX Designer
+9,10,4,2,6.39,5,1,0,0,1,Maths,Software Developer
+3,6,7,10,9.26,2,0,0,1,1,Web,Cybersecurity Engineer
+9,1,7,3,9.64,0,0,1,0,1,Networks,QA Tester
+7,6,2,6,9.98,4,1,0,1,1,DBMS,Mobile App Developer
+4,10,3,8,8.98,4,0,0,1,0,Networks,Data Analyst
+3,8,1,1,8.77,0,1,0,1,1,Web,Data Analyst
+10,2,8,1,6.08,4,0,0,1,1,Maths,Mobile App Developer
+5,2,9,2,6.68,1,0,1,1,1,DSA,UI/UX Designer
+5,4,4,6,7.33,4,1,1,0,0,Maths,QA Tester
+3,3,6,9,8.87,4,1,0,0,0,DSA,QA Tester
+9,4,9,4,9.57,0,1,0,0,0,DSA,Software Developer
+4,7,6,3,5.95,3,0,0,1,0,Web,QA Tester
+5,1,9,8,9.61,4,1,1,0,1,AI,Cybersecurity Engineer
+4,6,4,10,8.48,5,1,1,1,0,Web,QA Tester
+5,3,8,9,8.05,4,1,1,1,1,DBMS,Cybersecurity Engineer
+7,10,9,5,6.0,3,1,1,0,1,Maths,Data Scientist
+9,7,4,9,5.28,0,1,0,1,1,DSA,Software Developer
+7,10,5,2,7.84,3,0,1,0,1,Web,Data Scientist
+5,2,8,3,8.26,0,1,1,1,1,Web,UI/UX Designer
+10,2,10,7,6.05,1,1,0,1,1,Maths,Software Developer
+10,4,6,7,7.78,0,0,0,0,0,Maths,QA Tester
+7,1,7,6,9.28,1,1,1,1,0,DSA,Mobile App Developer
+10,3,3,6,9.18,1,1,1,0,0,Cybersecurity,Software Developer
+5,9,7,2,9.64,0,1,1,1,0,Networks,Data Scientist
+3,7,8,10,6.83,5,1,1,0,0,DBMS,Data Scientist
+7,7,10,6,6.59,2,1,0,1,1,DBMS,Mobile App Developer
+2,4,6,4,8.75,0,0,0,0,0,Cybersecurity,QA Tester
+9,2,10,3,7.16,4,0,1,0,0,AI,UI/UX Designer
+10,4,9,2,5.44,5,0,1,1,0,Cybersecurity,Mobile App Developer
+10,6,6,1,6.41,5,1,1,0,1,AI,Software Developer
+1,3,9,5,7.09,4,0,1,1,1,AI,UI/UX Designer
+6,1,4,2,6.46,2,1,1,1,1,Cybersecurity,QA Tester
+7,8,8,2,6.66,5,1,0,0,0,DBMS,UI/UX Designer
+8,5,4,7,6.47,1,1,0,0,0,Networks,Software Developer
+10,5,2,8,5.21,2,0,0,0,0,DBMS,QA Tester
+9,4,10,10,8.19,4,0,1,0,0,Web,UI/UX Designer
+2,6,9,8,7.99,2,0,1,0,0,DBMS,UI/UX Designer
+10,3,5,4,8.27,0,1,0,1,1,DBMS,Software Developer
+2,9,4,1,5.96,2,0,0,0,0,Cybersecurity,QA Tester
+5,5,2,7,6.48,1,1,1,1,1,Cybersecurity,Cybersecurity Engineer
+5,3,1,1,8.1,0,0,0,0,0,Web,QA Tester
+6,1,7,4,8.0,3,0,1,0,1,Web,QA Tester
+3,10,6,8,7.53,4,1,1,0,1,Cybersecurity,Data Scientist
+8,6,2,2,6.75,4,1,0,1,1,DBMS,Software Developer
+1,2,8,6,9.56,2,0,0,0,1,Networks,UI/UX Designer
+6,3,4,6,6.7,5,0,0,1,0,AI,QA Tester
+4,1,8,9,7.28,0,0,1,1,0,Maths,UI/UX Designer
+1,9,7,5,8.39,3,1,1,1,0,AI,Data Scientist
+7,8,5,10,7.72,0,1,0,0,1,Web,Cybersecurity Engineer
+9,2,10,4,6.73,4,0,1,1,0,Web,Mobile App Developer
+4,8,10,5,7.18,0,0,1,0,0,AI,Data Scientist
+4,9,8,10,8.97,3,1,1,1,0,Maths,Data Scientist
+6,1,9,5,6.39,5,0,0,0,0,DBMS,UI/UX Designer
+3,5,5,8,5.71,2,1,1,1,1,Networks,Cybersecurity Engineer
+6,8,10,10,6.57,1,1,0,0,1,Networks,Cybersecurity Engineer
+7,2,5,8,9.25,0,1,0,0,0,AI,QA Tester
+10,4,2,2,5.44,1,1,1,0,0,Maths,Software Developer
+10,7,5,7,9.96,4,1,0,1,0,Web,Software Developer
+3,3,3,8,7.71,2,1,1,1,1,DSA,Cybersecurity Engineer
+7,5,7,6,9.92,2,0,0,0,1,DBMS,QA Tester
+3,8,10,5,9.69,0,1,0,1,1,AI,UI/UX Designer
+2,10,5,9,7.26,5,1,1,1,0,Networks,Data Scientist
+10,3,8,3,5.99,2,0,0,1,1,Web,Mobile App Developer
+4,4,1,10,5.82,0,1,0,1,1,Cybersecurity,Cybersecurity Engineer
+8,9,3,4,6.2,0,0,0,1,1,Cybersecurity,Mobile App Developer
+9,7,3,9,8.55,1,1,1,1,1,Maths,Data Scientist
+7,1,9,6,6.36,2,0,1,1,1,Maths,Mobile App Developer
+1,4,5,8,6.71,0,0,0,0,0,AI,QA Tester
+3,4,9,7,7.24,1,1,0,0,0,DSA,UI/UX Designer
+9,9,9,2,9.57,3,1,0,1,0,Networks,Software Developer
+1,6,1,3,5.95,1,1,1,0,0,AI,QA Tester
+9,9,2,1,5.03,1,1,1,0,1,DSA,Data Scientist
+8,6,5,9,5.3,0,0,0,0,0,Web,QA Tester
+1,6,4,7,9.52,4,0,1,1,0,Maths,QA Tester
+6,5,10,1,8.24,4,0,1,1,0,Cybersecurity,UI/UX Designer
+5,5,9,3,6.37,5,1,1,1,1,DBMS,UI/UX Designer
+6,2,7,4,5.89,4,0,1,1,0,Web,QA Tester
+10,8,6,4,6.47,1,1,0,1,1,Cybersecurity,Software Developer
+5,8,7,5,5.57,5,1,1,0,1,Networks,Data Scientist
+6,1,1,3,9.71,0,0,1,1,1,Networks,QA Tester
+5,8,1,3,8.92,2,1,0,0,0,Cybersecurity,Data Analyst
+5,5,8,1,7.31,1,0,0,1,1,Web,UI/UX Designer
+4,2,2,7,9.32,1,1,1,0,0,Cybersecurity,QA Tester
+3,2,10,10,6.25,5,0,1,1,0,DSA,UI/UX Designer
+3,6,9,1,8.59,0,1,0,1,0,AI,UI/UX Designer
+4,9,7,2,9.28,3,0,0,1,1,Maths,Data Analyst
+9,1,6,4,6.78,1,0,0,1,1,DSA,Mobile App Developer
+2,6,1,4,8.79,3,1,1,1,0,DBMS,QA Tester
+9,9,1,5,6.48,3,1,1,1,1,Cybersecurity,Data Scientist
+1,8,2,2,6.49,4,0,0,0,1,DBMS,QA Tester
+1,6,6,4,5.54,0,1,1,1,1,DBMS,QA Tester
+5,3,6,1,7.2,3,1,0,0,0,DSA,QA Tester
+6,8,2,2,8.65,0,1,1,1,1,Maths,Data Scientist
+6,9,1,1,9.7,4,0,0,0,1,Web,Data Analyst
+3,1,10,10,8.02,0,0,0,0,0,Networks,UI/UX Designer
+7,9,5,10,9.32,1,1,1,0,1,AI,Data Scientist
+9,6,5,4,9.11,3,1,1,0,0,Networks,Software Developer
+10,6,2,4,5.87,0,0,1,0,1,Maths,QA Tester
+8,4,6,7,7.43,2,1,1,0,1,Networks,Software Developer
+6,1,9,10,5.58,0,0,1,1,1,Cybersecurity,Cybersecurity Engineer
+8,10,2,9,8.41,3,1,1,0,1,Cybersecurity,Data Scientist
+5,8,10,9,9.75,4,1,0,1,1,DSA,Cybersecurity Engineer
+8,2,2,5,5.69,4,1,1,1,1,DBMS,Software Developer
+10,1,3,10,8.67,3,0,0,0,0,Maths,QA Tester
+4,2,7,1,8.16,1,0,0,0,1,Maths,QA Tester
+10,1,6,1,7.92,1,0,1,1,1,Networks,Mobile App Developer
+8,1,8,6,6.95,4,0,0,0,1,DSA,UI/UX Designer
+10,9,8,2,6.78,4,1,0,0,0,Networks,Software Developer
+2,1,6,8,5.23,3,1,1,0,0,Networks,QA Tester
+5,4,10,9,6.09,1,0,1,0,0,Maths,UI/UX Designer
+9,10,3,4,5.08,4,1,1,0,1,Networks,Data Scientist
+4,6,3,5,7.91,1,1,0,0,1,DBMS,QA Tester
+6,7,1,8,5.53,4,0,1,0,0,Networks,Data Scientist
+1,2,7,3,9.37,0,1,1,1,0,DBMS,QA Tester
+9,6,5,5,7.62,2,1,1,0,0,Maths,Software Developer
+1,7,4,3,8.5,5,0,1,1,1,DSA,Data Scientist
+5,10,10,10,7.05,0,1,0,1,0,Cybersecurity,UI/UX Designer
+4,10,4,3,7.8,5,1,1,1,1,DBMS,Data Scientist
+3,2,4,3,9.71,4,1,0,1,1,DSA,QA Tester
+6,2,6,7,5.41,2,0,1,0,1,DSA,Cybersecurity Engineer
+2,10,8,7,6.27,2,0,0,1,0,DBMS,UI/UX Designer
+3,7,8,7,8.9,4,1,0,1,1,Maths,Cybersecurity Engineer
+5,1,5,10,5.49,4,1,0,1,0,AI,QA Tester
+9,8,6,8,5.38,1,1,1,1,0,DSA,Data Scientist
+2,3,4,5,6.81,4,0,0,1,0,DSA,QA Tester
+10,6,9,5,5.46,3,0,1,0,0,Maths,UI/UX Designer
+8,9,8,4,7.93,4,0,1,0,1,Maths,Data Scientist
+2,6,10,7,6.13,3,1,1,1,1,Networks,Cybersecurity Engineer
+5,9,10,10,9.48,4,1,1,0,1,Maths,Data Scientist
+7,7,1,4,8.92,1,1,1,0,1,DSA,Data Scientist
+8,9,2,2,8.5,3,1,0,1,0,DBMS,Software Developer
+1,2,9,4,8.08,0,1,1,1,0,AI,UI/UX Designer
+6,8,8,8,9.32,3,0,0,1,0,Web,UI/UX Designer
+1,8,3,9,6.12,1,1,0,0,0,Networks,QA Tester
+2,2,8,3,9.37,5,1,0,1,1,Web,UI/UX Designer
+1,4,1,7,8.95,3,1,0,0,0,DBMS,QA Tester
+5,7,10,9,8.74,4,0,0,0,1,AI,Cybersecurity Engineer
+10,4,4,4,7.81,4,1,0,0,0,AI,Software Developer
+9,4,3,10,6.23,5,0,0,1,0,AI,Mobile App Developer
+6,6,6,3,7.12,1,0,1,0,0,Cybersecurity,QA Tester
+1,10,7,5,8.97,2,0,0,1,0,DBMS,Data Analyst
+1,6,4,1,5.16,4,0,1,1,1,Networks,QA Tester
+2,10,7,3,8.91,0,0,0,1,1,Networks,Data Analyst
+9,3,9,8,6.2,1,1,0,1,1,AI,Software Developer
+3,9,2,8,5.72,3,1,0,1,1,DBMS,Cybersecurity Engineer
+1,10,3,4,5.58,3,0,0,0,0,Cybersecurity,QA Tester
+5,2,5,2,5.14,0,0,1,0,0,AI,QA Tester
+7,6,3,8,7.62,4,0,1,0,1,Maths,Cybersecurity Engineer
+6,7,8,8,6.09,1,1,1,0,1,Web,Data Scientist
+1,9,10,10,9.95,0,1,0,0,0,Networks,UI/UX Designer
+5,3,8,4,7.87,4,0,0,1,0,Web,UI/UX Designer
+5,10,8,3,5.69,1,1,0,1,1,DSA,UI/UX Designer
+6,3,9,2,8.44,3,1,1,0,1,AI,UI/UX Designer
+3,7,4,9,9.49,1,0,0,0,1,Maths,Cybersecurity Engineer
+5,4,5,1,8.73,5,0,1,0,0,Networks,QA Tester
+7,8,5,7,5.38,2,1,1,1,1,Web,Data Scientist
+5,7,8,5,9.48,1,1,0,1,1,Cybersecurity,UI/UX Designer
+5,5,7,8,8.97,2,1,0,1,1,DBMS,Cybersecurity Engineer
+5,7,9,4,5.79,1,0,1,0,1,Networks,Data Scientist
+10,3,8,7,5.26,2,0,1,0,1,Web,Cybersecurity Engineer
+10,2,2,5,7.79,5,0,1,0,0,DBMS,QA Tester
+3,6,10,5,5.78,3,1,0,0,1,Web,UI/UX Designer
+1,2,4,9,9.17,4,1,0,1,0,DBMS,QA Tester
+5,3,6,9,6.79,2,0,0,0,1,Cybersecurity,Cybersecurity Engineer
+9,6,2,9,9.56,5,1,0,0,1,Cybersecurity,Software Developer
+1,5,7,6,7.83,2,0,0,0,1,AI,QA Tester
+3,8,3,6,5.91,3,1,0,1,0,AI,QA Tester
+4,9,3,5,5.7,2,0,1,1,0,Networks,Data Scientist
+1,3,2,9,7.88,5,1,1,0,0,Cybersecurity,QA Tester
+1,10,8,10,8.81,5,1,1,1,1,Maths,Data Scientist
+8,3,6,8,8.91,0,0,0,1,1,Web,Mobile App Developer
+2,3,1,7,6.38,3,0,1,1,0,Web,QA Tester
+8,6,1,7,6.02,0,0,0,1,0,Web,Mobile App Developer
+7,1,7,6,5.08,3,0,0,1,1,Networks,Mobile App Developer
+10,7,8,5,8.4,2,0,1,0,0,Web,Data Scientist
+10,1,5,4,5.38,5,1,0,0,1,DSA,Software Developer
+2,5,5,3,7.1,0,0,1,0,0,DBMS,QA Tester
+6,10,4,3,8.01,2,0,1,1,0,Web,Data Scientist
+6,8,6,6,9.69,5,0,0,1,0,DBMS,Data Analyst
+3,4,6,4,6.56,3,0,1,1,1,AI,QA Tester
+2,5,3,6,6.25,5,0,1,1,1,Web,QA Tester
+1,4,9,3,8.27,2,1,1,0,0,Maths,UI/UX Designer
+6,4,7,4,8.1,0,0,1,0,1,Cybersecurity,QA Tester
+5,8,1,9,6.66,0,0,0,0,1,Cybersecurity,Cybersecurity Engineer
+9,2,7,5,9.64,5,0,1,0,1,AI,QA Tester
+1,1,5,7,9.22,2,1,1,0,1,DSA,Cybersecurity Engineer
+7,3,5,10,6.12,1,1,1,0,0,Networks,QA Tester
+5,9,2,2,6.2,3,0,0,1,1,Networks,QA Tester
+5,4,4,5,7.56,3,0,1,1,1,Maths,QA Tester
+2,10,6,9,8.87,2,1,0,0,0,AI,Data Analyst
+3,5,10,3,5.22,1,1,1,1,1,AI,UI/UX Designer
+7,2,7,9,8.47,0,1,1,0,1,DSA,Cybersecurity Engineer
+6,4,5,6,8.24,4,0,1,0,1,Web,QA Tester
+2,2,9,4,6.16,4,0,0,1,0,Networks,UI/UX Designer
+6,2,3,7,8.41,2,1,0,0,0,Web,QA Tester
+2,4,1,8,9.7,1,0,0,0,1,AI,Cybersecurity Engineer
+2,6,4,6,5.23,1,1,0,0,1,Web,QA Tester
+2,7,9,5,6.6,3,1,0,1,0,Cybersecurity,UI/UX Designer
+3,10,4,6,7.19,0,1,0,1,0,Maths,Data Analyst
+2,3,2,5,9.5,5,0,1,1,0,Networks,QA Tester
+4,3,10,8,9.81,1,1,0,1,1,DSA,Cybersecurity Engineer
+9,10,5,1,7.22,5,1,1,0,1,Maths,Data Scientist
+6,6,3,7,8.75,4,0,0,1,0,DBMS,QA Tester
+1,3,9,10,7.66,5,1,0,1,1,Cybersecurity,Cybersecurity Engineer
+8,2,4,10,7.69,0,0,0,1,1,DSA,Mobile App Developer
+7,8,6,2,6.39,0,1,1,0,1,Maths,Data Scientist
+10,5,2,9,6.08,5,0,0,1,1,AI,Mobile App Developer
+3,1,6,1,6.44,2,1,0,1,1,DBMS,QA Tester
+1,3,3,10,7.78,1,1,1,0,1,DSA,Cybersecurity Engineer
+5,10,9,6,5.15,2,1,1,0,1,AI,Data Scientist
+4,8,2,9,9.54,5,1,1,0,0,Cybersecurity,Data Scientist
+10,4,9,1,5.78,1,1,1,0,0,DBMS,Software Developer
+8,7,5,4,6.1,3,0,0,1,0,Networks,Mobile App Developer
+1,10,8,4,7.59,2,0,1,0,0,AI,Data Scientist
+10,2,2,9,8.55,2,1,0,1,0,Maths,Software Developer
+1,7,6,5,5.48,5,1,0,1,0,Web,QA Tester
+4,5,3,5,6.59,4,1,1,1,0,DSA,QA Tester
+8,5,10,6,9.84,5,0,0,1,0,DBMS,Mobile App Developer
+5,6,5,1,6.31,2,0,1,1,0,AI,QA Tester
+2,9,8,1,6.57,1,1,0,0,1,Networks,UI/UX Designer
+6,6,10,9,9.18,4,0,1,1,1,Web,Cybersecurity Engineer
+5,8,1,3,5.25,5,1,1,1,0,DSA,Data Scientist
+2,7,5,4,7.32,5,1,1,1,1,DSA,Data Scientist
+3,9,3,1,6.9,2,1,1,0,1,AI,Data Scientist
+9,4,4,9,6.58,2,0,1,1,0,Networks,Mobile App Developer
+7,2,2,8,6.43,3,1,1,1,0,Cybersecurity,Mobile App Developer
+7,7,9,2,5.46,5,1,0,0,0,Web,UI/UX Designer
+6,6,3,8,6.57,2,1,0,1,1,Cybersecurity,Cybersecurity Engineer
+8,1,2,7,5.22,0,0,0,1,1,DBMS,Mobile App Developer
+4,9,10,6,8.9,4,0,1,0,0,AI,Data Scientist
+8,9,9,1,6.99,0,0,0,1,1,Web,Mobile App Developer
+4,2,7,7,7.22,4,1,1,1,1,DBMS,Cybersecurity Engineer
+8,3,6,10,9.47,5,0,0,1,1,Cybersecurity,Mobile App Developer
+9,5,1,7,8.29,3,1,0,1,0,Web,Software Developer
+3,5,5,9,5.04,2,0,1,1,1,DSA,Cybersecurity Engineer
+3,1,3,1,9.72,2,1,0,0,1,DBMS,QA Tester
+2,8,1,2,6.19,2,0,0,0,1,Networks,QA Tester
+10,8,4,9,5.54,5,1,0,0,1,Maths,Software Developer
+3,4,2,9,8.84,4,0,1,1,1,Cybersecurity,Cybersecurity Engineer
+3,7,2,6,7.5,2,0,0,1,1,Cybersecurity,QA Tester
+5,10,3,6,7.17,0,0,1,1,1,Networks,Data Scientist
+5,3,8,4,6.25,2,1,0,0,0,Web,UI/UX Designer
+2,6,8,4,7.74,5,0,0,1,0,Web,UI/UX Designer
+10,10,7,5,6.37,3,0,0,1,1,Web,Mobile App Developer
+6,10,6,3,9.51,0,0,0,1,0,DBMS,Data Analyst
+5,9,9,1,6.08,2,0,1,0,1,AI,Data Scientist
+6,1,4,1,9.42,2,1,0,0,1,DSA,QA Tester
+1,5,1,7,7.8,1,0,1,1,1,Maths,Cybersecurity Engineer
+5,4,8,1,9.14,4,1,1,1,0,AI,UI/UX Designer
+9,8,7,1,8.56,0,1,0,1,1,AI,Software Developer
+10,1,7,3,8.48,1,1,0,0,1,Networks,Software Developer
+2,9,3,10,6.62,3,1,1,0,0,DBMS,Data Scientist
+1,6,4,4,6.17,4,0,1,0,0,Cybersecurity,QA Tester
+10,4,10,4,6.05,0,1,0,1,1,Cybersecurity,Software Developer
+9,9,9,2,9.29,2,1,0,0,0,Networks,Software Developer
+10,5,6,1,9.1,0,1,0,1,0,DBMS,Software Developer
+9,5,5,3,7.2,2,1,0,1,1,Networks,Software Developer
+9,5,3,4,5.66,4,0,0,0,1,Cybersecurity,QA Tester
+6,1,9,3,6.91,2,0,1,1,1,AI,UI/UX Designer
+8,1,5,8,8.1,3,1,0,0,0,DSA,Software Developer
+1,8,5,10,7.27,5,1,0,1,0,Web,Data Analyst
+10,8,4,1,8.9,2,1,1,1,0,DBMS,Data Scientist
+4,6,4,2,9.99,3,0,0,0,1,Maths,QA Tester
+1,4,1,7,5.96,5,0,0,1,0,Maths,QA Tester
+8,2,7,4,7.3,4,0,1,1,0,AI,Mobile App Developer
+1,2,9,8,7.15,4,0,0,1,1,Networks,Cybersecurity Engineer
+3,9,3,3,6.52,0,0,1,1,1,Networks,Data Scientist
+4,5,2,6,5.99,3,1,0,1,1,Cybersecurity,QA Tester
+8,4,3,9,5.33,3,0,0,1,0,AI,Mobile App Developer
+6,10,1,1,9.44,1,0,0,1,1,Cybersecurity,Data Analyst
+10,1,6,1,7.1,1,1,1,1,0,Cybersecurity,Software Developer
+7,7,7,8,7.48,5,0,1,0,0,Maths,Data Scientist
+8,3,2,3,9.58,5,0,1,0,1,Cybersecurity,QA Tester
+2,6,8,5,8.88,1,0,1,1,1,Web,UI/UX Designer
+10,5,6,1,5.65,5,1,0,1,1,Cybersecurity,Software Developer
+8,5,4,5,7.83,2,0,1,0,1,Maths,QA Tester
+3,5,5,6,7.21,1,1,1,1,1,Web,QA Tester
+7,1,8,8,8.99,3,1,1,0,0,Networks,UI/UX Designer
+3,1,3,3,8.62,2,0,0,0,0,DBMS,QA Tester
+7,3,3,3,8.45,5,0,0,0,0,DSA,QA Tester
+2,10,4,10,6.7,4,0,1,1,1,Cybersecurity,Data Scientist
+10,4,1,9,9.02,0,0,1,1,0,Web,Mobile App Developer
+6,5,9,4,5.26,1,1,0,1,1,DBMS,UI/UX Designer
+3,2,8,4,5.8,4,0,1,0,1,Maths,UI/UX Designer
+3,8,8,7,6.68,5,1,1,0,0,DBMS,Data Scientist
+9,2,10,2,5.38,3,1,1,0,0,DSA,Software Developer
+7,9,6,8,6.17,0,1,1,1,1,DBMS,Data Scientist
+5,2,7,6,9.15,4,1,0,0,0,Web,QA Tester
+10,9,6,3,9.74,0,1,0,0,1,DBMS,Software Developer
+7,7,9,9,6.52,1,0,0,1,0,DBMS,Mobile App Developer
+9,8,3,5,6.32,5,1,1,0,0,DBMS,Data Scientist
+1,2,3,8,6.4,3,1,1,0,0,AI,QA Tester
+7,7,3,7,6.39,5,0,0,1,0,Cybersecurity,Mobile App Developer
+6,6,10,8,5.18,0,0,0,1,0,Maths,UI/UX Designer
+10,4,3,7,9.63,4,1,0,0,1,DSA,Software Developer
+9,7,9,3,6.07,1,1,1,1,0,Maths,Data Scientist
+1,4,4,2,7.1,1,0,0,0,0,AI,QA Tester
+4,2,7,7,5.05,5,1,1,1,0,AI,QA Tester
+9,10,9,3,9.29,4,0,1,0,1,Web,Data Scientist
+4,7,7,3,8.66,4,0,0,1,1,AI,QA Tester
+10,8,9,2,9.73,0,1,0,0,1,Cybersecurity,Software Developer
+3,2,3,4,8.91,5,0,1,1,1,AI,QA Tester
+9,5,4,8,6.57,5,1,0,1,1,DBMS,Software Developer
+2,1,8,1,6.24,2,1,0,1,0,Maths,UI/UX Designer
+4,7,6,1,8.49,5,1,1,1,0,Networks,Data Scientist
+6,8,5,5,6.82,1,0,1,1,0,DSA,Data Scientist
+2,6,4,5,7.83,0,1,1,1,1,AI,QA Tester
+8,5,8,1,5.03,4,0,1,1,1,Maths,Mobile App Developer
+8,6,1,6,5.31,5,1,1,0,0,Web,Software Developer
+1,2,9,1,7.68,0,1,0,0,1,AI,UI/UX Designer
+3,1,1,5,7.83,5,0,1,1,1,Cybersecurity,QA Tester
+10,7,8,9,8.76,4,1,1,1,1,AI,Data Scientist
+9,7,4,5,5.66,3,1,1,0,0,AI,Data Scientist
+5,10,9,6,7.57,4,0,0,0,0,AI,UI/UX Designer
+6,10,5,8,5.97,4,0,1,1,1,Web,Data Scientist
+4,2,3,1,5.47,4,0,1,0,1,AI,QA Tester
+10,2,9,2,7.05,5,1,1,0,1,DSA,Software Developer
+2,1,9,9,5.82,2,0,0,1,1,Maths,Cybersecurity Engineer
+8,10,4,3,6.11,4,0,1,1,0,Cybersecurity,Data Scientist
+6,8,4,6,6.59,1,1,1,1,1,AI,Data Scientist
+5,8,8,5,6.3,1,0,1,0,0,AI,Data Scientist
+9,1,2,2,5.44,0,1,0,1,0,AI,Software Developer
+1,8,9,7,5.45,2,1,0,1,0,AI,UI/UX Designer
+5,9,6,4,5.97,0,0,0,0,1,DBMS,QA Tester
+6,4,9,1,5.25,1,1,0,1,0,DBMS,UI/UX Designer
+5,1,8,4,8.13,1,0,1,0,0,Networks,UI/UX Designer
+6,1,7,6,6.44,3,0,1,0,1,AI,QA Tester
+6,3,1,7,6.4,4,0,0,0,1,Networks,Cybersecurity Engineer
+7,5,3,7,6.66,1,0,0,0,1,DSA,Cybersecurity Engineer
+4,5,2,7,8.31,5,1,1,0,0,Networks,QA Tester
+8,9,5,3,9.35,5,1,1,0,1,Maths,Data Scientist
+7,10,5,6,8.8,0,0,0,1,0,DBMS,Mobile App Developer
+9,2,5,8,8.64,0,0,0,1,0,DBMS,Mobile App Developer
+7,2,4,4,7.42,4,1,0,1,1,AI,Mobile App Developer
+3,6,5,8,8.47,4,0,0,0,0,AI,QA Tester
+3,9,3,2,7.76,3,1,1,1,0,DSA,Data Scientist
+8,1,1,10,6.08,2,0,0,0,0,Cybersecurity,QA Tester
+5,9,5,9,6.04,0,1,0,1,0,DSA,QA Tester
+4,9,9,9,6.48,4,1,1,0,1,Maths,Data Scientist
+8,9,9,8,9.55,0,1,1,1,0,AI,Data Scientist
+6,5,4,10,7.74,4,0,1,0,1,AI,Cybersecurity Engineer
+2,9,3,10,8.67,1,0,1,1,0,DSA,Data Scientist
+4,4,1,1,6.73,0,0,1,0,0,DSA,QA Tester
+4,2,2,2,7.04,1,0,0,1,1,DSA,QA Tester
+6,6,8,6,5.63,0,0,0,0,0,DBMS,UI/UX Designer
+6,4,1,10,5.86,2,1,0,1,0,Networks,QA Tester
+1,6,8,5,9.14,3,1,1,1,0,Networks,UI/UX Designer
+8,3,7,9,7.92,5,1,0,1,0,AI,Software Developer
+6,6,8,5,6.69,5,1,1,0,0,DBMS,UI/UX Designer
+3,2,6,2,9.01,5,1,0,0,0,DSA,QA Tester
+9,2,9,10,6.23,1,1,0,0,1,AI,Software Developer
+2,9,3,4,9.88,4,1,1,0,1,DBMS,Data Scientist
+8,7,10,9,6.72,5,0,1,0,1,Maths,Data Scientist
+10,3,4,1,6.69,2,1,0,1,0,Cybersecurity,Software Developer
+3,1,6,1,6.56,5,0,0,0,0,DBMS,QA Tester
+5,8,8,7,5.61,0,1,0,1,0,Web,UI/UX Designer
+6,6,5,3,5.56,1,1,0,1,1,AI,QA Tester
+10,7,3,10,8.24,0,0,0,0,0,Networks,QA Tester
+6,9,6,2,9.38,0,1,1,1,1,Web,Data Scientist
+4,5,4,9,8.95,0,0,1,0,0,DSA,QA Tester
+3,1,9,3,5.71,3,1,1,0,0,Cybersecurity,UI/UX Designer
+4,10,3,2,7.73,3,0,1,0,0,Maths,Data Scientist
+1,7,4,8,5.53,4,1,0,1,1,Cybersecurity,Cybersecurity Engineer
+4,5,7,10,5.23,1,0,0,0,0,Cybersecurity,QA Tester
+1,3,7,6,8.28,2,0,1,0,1,DBMS,QA Tester
+1,9,4,6,7.68,2,1,0,0,0,AI,Data Analyst
+10,1,6,10,5.41,2,1,1,1,0,AI,Software Developer
+6,1,3,7,5.17,0,0,0,0,1,Cybersecurity,Cybersecurity Engineer
+5,1,6,7,9.95,3,1,0,1,0,DSA,QA Tester
+4,3,2,6,5.15,1,0,0,1,0,AI,QA Tester
+3,6,8,4,7.22,0,1,1,0,0,Cybersecurity,UI/UX Designer
+1,10,2,9,7.52,3,0,1,1,0,AI,Data Scientist
+6,3,7,6,5.59,3,1,1,1,1,DSA,QA Tester
+2,8,9,4,5.85,5,0,1,0,1,Maths,Data Scientist
+8,10,1,3,6.76,5,1,0,0,0,Web,Software Developer
+10,2,8,4,8.81,1,0,0,0,0,Cybersecurity,UI/UX Designer
+5,9,7,3,7.54,1,0,0,1,1,Networks,Data Analyst
+7,3,6,2,8.19,1,1,0,0,0,Networks,QA Tester
+10,5,6,5,9.93,0,1,1,1,1,Cybersecurity,Software Developer
+2,10,6,2,8.84,4,0,0,1,0,DBMS,Data Analyst
+8,8,9,6,7.17,1,0,0,1,1,Maths,Mobile App Developer
+2,2,2,3,7.23,5,0,0,1,1,DBMS,QA Tester
+4,6,1,6,8.09,4,0,1,1,1,Web,QA Tester
+1,5,6,10,8.33,0,1,1,0,1,Networks,Cybersecurity Engineer
+5,10,10,9,7.5,4,0,1,0,0,DSA,Data Scientist
+9,9,8,1,8.22,2,0,0,1,0,Cybersecurity,Mobile App Developer
+1,5,3,6,5.12,4,0,1,1,1,Web,QA Tester
+9,2,10,9,7.15,1,1,0,0,1,AI,Software Developer
+8,5,1,4,6.39,0,0,0,0,1,Networks,QA Tester
+6,4,9,2,5.65,1,1,0,1,1,Maths,UI/UX Designer
+7,7,1,4,5.5,5,1,1,1,0,Networks,Data Scientist
+3,6,3,1,8.02,2,1,1,0,1,Maths,QA Tester
+1,2,8,3,7.62,5,1,0,0,1,Maths,UI/UX Designer
+5,5,3,10,6.27,1,1,0,1,1,Cybersecurity,Cybersecurity Engineer
+2,7,4,9,7.35,1,1,1,0,1,Maths,Data Scientist
+5,7,8,10,7.46,1,1,1,0,1,DBMS,Data Scientist
+8,5,1,5,5.98,3,0,1,1,1,Web,Mobile App Developer
+9,9,6,6,8.26,2,0,0,1,1,DSA,Mobile App Developer
+2,4,1,3,8.9,1,1,0,1,0,Networks,QA Tester
+3,3,1,5,8.96,1,0,0,0,1,DSA,QA Tester
+3,4,8,8,8.01,5,0,1,1,1,Web,Cybersecurity Engineer
+1,5,4,6,7.56,5,1,1,0,1,AI,QA Tester
+8,6,1,4,5.31,1,0,1,1,0,Web,Mobile App Developer
+6,3,10,2,6.44,0,1,0,1,0,Networks,UI/UX Designer
+8,2,7,9,5.47,3,0,0,0,0,DSA,QA Tester
+9,4,5,1,9.82,5,1,1,0,1,DSA,Software Developer
+5,5,5,1,5.68,0,1,0,1,1,Cybersecurity,QA Tester
+3,4,1,4,5.76,3,0,1,1,1,Cybersecurity,QA Tester
+5,3,10,7,9.45,1,0,0,0,0,Web,UI/UX Designer
+5,8,6,1,9.72,2,1,1,1,1,Web,Data Scientist
+5,10,9,9,8.83,4,1,0,0,0,AI,UI/UX Designer
+3,4,9,4,5.03,4,1,0,0,0,Maths,UI/UX Designer
+10,2,8,3,5.01,1,0,1,1,0,Networks,Mobile App Developer
+4,2,5,1,6.89,5,0,1,0,0,Cybersecurity,QA Tester
+9,1,1,10,5.72,0,0,1,0,0,Networks,QA Tester
+10,4,9,4,5.09,2,0,1,0,1,AI,UI/UX Designer
+9,10,1,9,7.32,3,1,1,1,1,Cybersecurity,Data Scientist
+2,9,8,10,9.72,1,1,0,0,0,Cybersecurity,UI/UX Designer
+8,7,5,6,6.62,2,1,1,1,1,Maths,Data Scientist
+8,10,3,6,8.31,2,1,1,1,1,Networks,Data Scientist
+7,7,7,1,8.26,5,0,1,1,0,Networks,Data Scientist
+8,7,7,10,6.26,3,1,0,0,0,Networks,Software Developer
+3,8,9,2,8.25,2,1,1,0,1,Maths,Data Scientist
+6,1,7,6,6.06,5,0,1,1,1,Cybersecurity,QA Tester
+1,10,3,2,5.61,0,0,1,1,1,AI,Data Scientist
+7,10,1,3,8.51,5,1,0,0,1,Networks,Data Analyst
+1,8,8,4,5.57,0,0,0,1,0,DSA,UI/UX Designer
+9,4,3,5,9.98,0,1,1,1,1,Maths,Software Developer
+1,4,8,9,5.92,2,0,0,0,0,DBMS,UI/UX Designer
+1,4,8,4,7.97,5,0,1,1,0,AI,UI/UX Designer
+7,6,5,9,7.06,0,1,0,0,1,DSA,Cybersecurity Engineer
+2,7,1,10,5.63,3,0,1,0,1,Networks,Data Scientist
+5,6,10,3,5.14,2,1,0,1,1,DBMS,UI/UX Designer
+8,1,7,8,8.11,5,0,1,0,0,AI,QA Tester
+8,8,10,1,9.03,5,0,1,0,0,Maths,Data Scientist
+3,10,5,9,9.21,4,0,0,0,0,DBMS,Data Analyst
+7,7,8,9,7.41,5,0,1,1,0,Cybersecurity,Data Scientist
+3,6,9,10,8.89,2,0,1,1,1,Web,Cybersecurity Engineer
+6,6,7,2,8.36,3,1,1,1,0,DBMS,QA Tester
+6,5,7,4,8.62,5,0,1,0,0,Web,QA Tester
+3,6,1,8,7.46,4,1,0,0,1,DSA,Cybersecurity Engineer
+7,9,4,7,8.17,2,0,1,1,0,AI,Data Scientist
+3,10,2,1,9.03,0,1,0,1,0,DSA,Data Analyst
+8,9,2,5,6.99,1,0,0,0,1,DSA,QA Tester
+10,10,2,7,9.03,1,1,0,1,0,Networks,Software Developer
+4,8,4,4,7.96,0,1,0,1,0,Maths,Data Analyst
+1,10,1,1,5.83,5,0,1,1,0,DBMS,Data Scientist
+4,9,4,9,5.12,1,0,1,1,0,AI,Data Scientist
+7,10,2,5,6.81,1,0,0,1,1,Cybersecurity,Mobile App Developer
+4,8,5,2,7.73,0,1,1,0,0,Maths,Data Scientist
+6,8,3,8,9.2,5,1,0,1,1,Maths,Cybersecurity Engineer
+9,1,8,2,5.64,5,0,1,1,0,AI,Mobile App Developer
+1,10,4,3,9.0,0,0,1,0,1,Maths,Data Scientist
+5,5,1,10,9.32,5,1,1,0,1,Networks,Cybersecurity Engineer
+7,4,1,1,5.75,5,1,0,0,1,Maths,QA Tester
+1,2,10,2,9.26,2,0,0,0,0,Networks,UI/UX Designer
+4,8,3,7,9.96,2,1,1,1,0,DBMS,Data Scientist
+6,3,9,10,8.63,0,0,0,1,0,DBMS,UI/UX Designer
+2,4,7,2,8.92,3,0,0,1,1,DSA,QA Tester
+10,7,2,6,9.97,1,0,1,1,0,Networks,Data Scientist
+5,10,9,3,8.03,2,1,0,0,0,Cybersecurity,UI/UX Designer
+10,9,10,4,6.54,1,1,1,0,0,DBMS,Data Scientist
+1,2,2,8,9.19,4,1,1,1,0,Maths,QA Tester
+6,3,3,3,8.07,0,1,1,1,1,AI,QA Tester
+6,4,10,10,7.91,3,0,0,1,1,AI,Cybersecurity Engineer
+4,10,2,6,6.27,4,1,1,1,0,Web,Data Scientist
+8,1,3,1,8.78,4,0,1,0,0,Networks,QA Tester
+4,7,6,7,5.41,5,0,0,1,0,Cybersecurity,QA Tester
+8,2,9,8,9.62,4,0,0,0,1,DSA,Cybersecurity Engineer
+8,5,9,8,6.63,0,1,0,0,0,Maths,Software Developer
+5,1,7,3,5.64,2,0,0,0,1,Networks,QA Tester
+4,3,3,10,7.21,0,0,1,0,1,Web,Cybersecurity Engineer
+2,2,4,1,5.21,2,1,0,1,0,AI,QA Tester
+3,1,6,9,8.42,4,0,0,1,0,Networks,QA Tester
+3,7,5,6,9.51,4,1,0,1,0,Maths,QA Tester
+4,5,2,9,9.19,3,1,0,1,1,Cybersecurity,Cybersecurity Engineer
+4,1,6,7,5.64,2,1,1,0,1,Cybersecurity,Cybersecurity Engineer
+10,6,3,1,5.63,4,0,0,0,0,DBMS,QA Tester
+5,5,8,1,9.07,5,1,1,0,1,Maths,UI/UX Designer
+4,3,2,6,9.62,1,1,0,1,0,Web,QA Tester
+10,7,1,5,7.3,3,1,1,0,0,DBMS,Data Scientist
+8,10,9,9,7.49,0,1,1,0,1,DBMS,Data Scientist
+6,9,3,2,6.59,3,0,0,0,1,DBMS,QA Tester
+6,9,1,8,9.47,1,1,1,0,1,Networks,Data Scientist
+8,9,7,5,8.22,2,0,0,1,1,Web,Mobile App Developer
+7,2,10,2,6.44,0,1,1,0,0,AI,UI/UX Designer
+10,3,5,10,6.49,0,0,1,0,0,Cybersecurity,QA Tester
+10,7,5,6,9.46,2,1,1,1,0,Networks,Data Scientist
+8,5,1,10,5.07,3,0,0,1,1,AI,Mobile App Developer
+2,2,9,8,6.61,4,1,1,1,0,Cybersecurity,UI/UX Designer
+9,3,7,4,7.77,3,0,0,0,1,Web,QA Tester
